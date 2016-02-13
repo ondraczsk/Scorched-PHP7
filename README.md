@@ -3,7 +3,7 @@ Scorched
 
 * Summary: The Mother of All Mini-Games
 * Dependency Plugins: n/a
-* PocketMine-MP version: 1.4 - API 1.10.0
+* PocketMine-MP version: 1.6 - API 2.0.0
 * DependencyPlugins: -
 * OptionalPlugins: -
 * Categories: Fun
